@@ -2,3 +2,7 @@ __pycache__
 venv/
 .env
 .idea/
+.iws
+workspace.xml
+tasks.xml
+.idea.idea
