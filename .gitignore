@@ -6,3 +6,4 @@ venv/
 workspace.xml
 tasks.xml
 .idea.idea
+ubuntu-server.md
